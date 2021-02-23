@@ -6,6 +6,6 @@ public class Testt {
         System.out.println("fuck you!");
         System.out.println("liu hh");
         System.out.println("good");
-        System.out.println("dididididi");
+        System.out.println("aaa");
     }
 }
